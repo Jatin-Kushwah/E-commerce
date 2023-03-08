@@ -1,0 +1,6 @@
+[submodule "E-commerce-server"]
+	path = E-commerce-server
+	url = https://github.com/Jatin-Kushwah/E-commerce-server.git
+[submodule "E-commerce-client"]
+	path = E-commerce-client
+	url = https://github.com/Jatin-Kushwah/E-commerce-client.git
